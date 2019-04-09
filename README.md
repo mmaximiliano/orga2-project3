@@ -1,0 +1,2 @@
+# orga2-project3
+Este trabajo pr ́actico consiste en un conjunto de ejercicios en los que se aplican de forma gradual los conceptos de System Programming vistos en las clases te ́oricas y pr ́acticas. Se busca construir un sistema m ́ınimo que permita correr como m ́aximo 20 tareas con- currentemente a nivel de usuario. Este sistema simular ́a un juego entre dos jugadores, A y B, sobre un tablero donde se ubicar ́an las tareas. Cada tarea ser ́a capaz de leer el tablero, moverse a otra posici ́on o duplicarse.
