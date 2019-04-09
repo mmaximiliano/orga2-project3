@@ -1,0 +1,15 @@
+TODO:
+*toda la pantalla YA ESTA
+*tss_init_tasks YA ESTA
+*interrupcion del TECLADO
+*syscalls YA ESTA
+*Tablero YA ESTA
+*resolver_conflictos YA ESTA
+*chequear offset en interrupcion del reloj
+*hace falta sched_init
+*hacer informe, todo aparte
+*chequear todo
+
+PREGUNTAR
+mmu.c: mmu_initTaskDir
+tss.c: tss_init_tasks

@@ -1,0 +1,3 @@
+TODO:
+- gdt.c: poner bien los limites
+- (1a) Completar el código necesario para pasar a modo protegido y setear la pila del kernel en la dirección 0x27000.
